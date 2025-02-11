@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/h$ ls -la | Cat ls_cwd_content
+ls -la > ls_cwd_content
